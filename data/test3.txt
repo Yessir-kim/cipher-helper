@@ -1,0 +1,5 @@
+There is no attendance check for the 6/6 class.
+Instead, submit the GitHub address of your final project to the [Assignments] menu.
+Note that you may edit the GitHub repository after you submit this assignment. What I'm asking is just the web address.
+Due date: 6/11, 11:59pm
+Note that you also have HW16 (due date: 6/8)

@@ -1,0 +1,11 @@
+[2022-06-07 23:03:51] : [Running] started cipher-helper program
+[2022-06-07 23:03:51] : [Running] Run WHOLE_MODE: user want to use encryption & decryption at the same time
+[2022-06-07 23:03:51] : [Running] Encryption process successful!
+[2022-06-07 23:03:51] : [Running] Decryption process successful!
+[2022-06-07 23:03:51] : [Terminating] Exit program successful!
+[2022-06-07 23:08:05] : [Running] started cipher-helper program
+[2022-06-07 23:08:05] : [Running] Run TEST_MODE: view log about whole process
+[2022-06-07 23:08:05] : [Running] Encryption process successful!
+[2022-06-07 23:08:05] : [Running] Decryption process successful!
+[2022-06-07 23:08:05] : [Running] Decryption process successful!
+[2022-06-07 23:08:05] : [Terminating] Exit program successful!

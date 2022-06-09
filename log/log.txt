@@ -9,3 +9,212 @@
 [2022-06-07 23:08:05] : [Running] Decryption process successful!
 [2022-06-07 23:08:05] : [Running] Decryption process successful!
 [2022-06-07 23:08:05] : [Terminating] Exit program successful!
+[2022-06-09 13:56:45] : [Running] started cipher-helper program
+[2022-06-09 13:56:45] : [Terminating] few arguments - filename
+[2022-06-09 14:38:08] : [Running] started cipher-helper program
+[2022-06-09 14:38:08] : [Running] Run TEST_MODE: view log about whole process
+[2022-06-09 14:38:08] : [Running] Encryption process successful!
+[2022-06-09 14:38:08] : [Running] Decryption process successful!
+[2022-06-09 14:38:08] : [Running] Decryption process successful!
+[2022-06-09 14:38:08] : [Terminating] Exit program successful!
+[2022-06-09 14:38:47] : [Running] started cipher-helper program
+[2022-06-09 14:38:47] : [Running] Run TEST_MODE: view log about whole process
+[2022-06-09 14:38:47] : [Running] Encryption process successful!
+[2022-06-09 14:38:47] : [Running] Decryption process successful!
+[2022-06-09 14:38:47] : [Running] Decryption process successful!
+[2022-06-09 14:38:47] : [Terminating] Exit program successful!
+[2022-06-09 14:43:04] : [Running] started cipher-helper program
+[2022-06-09 14:43:04] : [Running] Run TEST_MODE: view log about whole process
+[2022-06-09 14:43:04] : [Terminating] Encryption -- file not found
+[2022-06-09 14:45:10] : [Running] started cipher-helper program
+[2022-06-09 14:45:10] : [Running] Run TEST_MODE: view log about whole process
+[2022-06-09 14:45:10] : [Terminating] Encryption -- file not found
+[2022-06-09 14:45:16] : [Running] started cipher-helper program
+[2022-06-09 14:45:16] : [Running] Run TEST_MODE: view log about whole process
+[2022-06-09 14:45:16] : [Running] Encryption process successful!
+[2022-06-09 14:45:16] : [Running] Decryption process successful!
+[2022-06-09 14:45:16] : [Running] Decryption process successful!
+[2022-06-09 14:45:16] : [Terminating] Exit program successful!
+[2022-06-09 14:45:46] : [Running] started cipher-helper program
+[2022-06-09 14:45:46] : [Running] Run TEST_MODE: view log about whole process
+[2022-06-09 14:45:46] : [Running] Encryption process successful!
+[2022-06-09 14:45:46] : [Running] Decryption process successful!
+[2022-06-09 14:45:46] : [Running] Decryption process successful!
+[2022-06-09 14:45:46] : [Terminating] Exit program successful!
+[2022-06-09 14:46:31] : [Running] started cipher-helper program
+[2022-06-09 14:46:31] : [Running] Run TEST_MODE: view log about whole process
+[2022-06-09 14:46:31] : [Terminating] Encryption -- file not found
+[2022-06-09 16:34:51] : [Running] started cipher-helper program
+[2022-06-09 16:34:51] : [Terminating] File not found - isDirectory() && isFile() have a same value
+[2022-06-09 16:35:01] : [Running] started cipher-helper program
+[2022-06-09 16:35:01] : [Running] Run TEST_MODE: view log about whole process
+[2022-06-09 16:35:01] : [Running] Encryption process successful!
+[2022-06-09 16:35:01] : [Running] Decryption process successful!
+[2022-06-09 16:35:01] : [Running] Decryption process successful!
+[2022-06-09 16:35:01] : [Terminating] Exit program successful!
+[2022-06-09 16:38:19] : [Running] started cipher-helper program
+[2022-06-09 16:38:19] : [Running] Run TEST_MODE: view log about whole process
+[2022-06-09 16:38:19] : [Running] Encryption process successful!
+[2022-06-09 16:38:19] : [Running] Decryption process successful!
+[2022-06-09 16:38:19] : [Running] Decryption process successful!
+[2022-06-09 16:38:19] : [Terminating] Exit program successful!
+[2022-06-09 16:38:31] : [Running] started cipher-helper program
+[2022-06-09 16:38:31] : [Running] Run TEST_MODE: view log about whole process
+[2022-06-09 16:38:31] : [Running] Encryption process successful!
+[2022-06-09 16:38:31] : [Running] Decryption process successful!
+[2022-06-09 16:38:31] : [Running] Decryption process successful!
+[2022-06-09 16:38:31] : [Terminating] Exit program successful!
+[2022-06-09 16:39:53] : [Running] started cipher-helper program
+[2022-06-09 16:39:53] : [Running] Run TEST_MODE: view log about whole process
+[2022-06-09 16:39:53] : [Running] Encryption process successful!
+[2022-06-09 16:39:53] : [Running] Decryption process successful!
+[2022-06-09 16:39:53] : [Running] Decryption process successful!
+[2022-06-09 16:39:53] : [Terminating] Exit program successful!
+[2022-06-09 17:00:01] : [Running] started cipher-helper program
+[2022-06-09 17:00:01] : [Running] Run TEST_MODE: view log about whole process
+[2022-06-09 17:00:01] : [Running] Encryption process successful!
+[2022-06-09 17:00:01] : [Running] Decryption process successful!
+[2022-06-09 17:00:01] : [Running] Decryption process successful!
+[2022-06-09 17:00:01] : [Terminating] Exit program successful!
+[2022-06-09 17:00:35] : [Running] started cipher-helper program
+[2022-06-09 17:00:35] : [Running] Run TEST_MODE: view log about whole process
+[2022-06-09 17:00:35] : [Running] Encryption process successful!
+[2022-06-09 17:00:35] : [Running] Decryption process successful!
+[2022-06-09 17:00:35] : [Running] Decryption process successful!
+[2022-06-09 17:00:35] : [Terminating] Exit program successful!
+[2022-06-09 17:01:30] : [Running] started cipher-helper program
+[2022-06-09 17:01:30] : [Running] Run TEST_MODE: view log about whole process
+[2022-06-09 17:01:30] : [Running] Encryption process successful!
+[2022-06-09 17:01:30] : [Running] Decryption process successful!
+[2022-06-09 17:01:30] : [Running] Decryption process successful!
+[2022-06-09 17:01:30] : [Terminating] Exit program successful!
+[2022-06-09 17:01:51] : [Running] started cipher-helper program
+[2022-06-09 17:01:51] : [Running] Run TEST_MODE: view log about whole process
+[2022-06-09 17:01:51] : [Running] Encryption process successful!
+[2022-06-09 17:01:51] : [Running] Decryption process successful!
+[2022-06-09 17:01:51] : [Running] Decryption process successful!
+[2022-06-09 17:01:51] : [Terminating] Exit program successful!
+[2022-06-09 17:02:12] : [Running] started cipher-helper program
+[2022-06-09 17:02:12] : [Running] Run TEST_MODE: view log about whole process
+[2022-06-09 17:02:12] : [Running] Encryption process successful!
+[2022-06-09 17:02:12] : [Running] Decryption process successful!
+[2022-06-09 17:02:12] : [Running] Decryption process successful!
+[2022-06-09 17:02:12] : [Terminating] Exit program successful!
+[2022-06-09 17:02:29] : [Running] started cipher-helper program
+[2022-06-09 17:02:29] : [Running] Run TEST_MODE: view log about whole process
+[2022-06-09 17:02:29] : [Running] Encryption process successful!
+[2022-06-09 17:02:29] : [Running] Decryption process successful!
+[2022-06-09 17:02:29] : [Running] Decryption process successful!
+[2022-06-09 17:02:29] : [Terminating] Exit program successful!
+[2022-06-09 17:02:39] : [Running] started cipher-helper program
+[2022-06-09 17:02:39] : [Running] Run TEST_MODE: view log about whole process
+[2022-06-09 17:02:39] : [Running] Encryption process successful!
+[2022-06-09 17:02:39] : [Running] Decryption process successful!
+[2022-06-09 17:02:39] : [Running] Decryption process successful!
+[2022-06-09 17:02:39] : [Terminating] Exit program successful!
+[2022-06-09 17:05:11] : [Running] started cipher-helper program
+[2022-06-09 17:05:11] : [Running] Run TEST_MODE: view log about whole process
+[2022-06-09 17:05:11] : [Running] Encryption process successful!
+[2022-06-09 17:05:11] : [Running] Decryption process successful!
+[2022-06-09 17:05:11] : [Running] Decryption process successful!
+[2022-06-09 17:05:11] : [Terminating] Exit program successful!
+[2022-06-09 17:12:52] : [Running] started cipher-helper program
+[2022-06-09 17:13:32] : [Running] started cipher-helper program
+[2022-06-09 17:15:36] : [Running] started cipher-helper program
+[2022-06-09 17:15:40] : [Running] started cipher-helper program
+[2022-06-09 17:15:40] : [Running] Run TEST_MODE: view log about whole process
+[2022-06-09 17:15:40] : [Running] Encryption process successful!
+[2022-06-09 17:15:40] : [Running] Decryption process successful!
+[2022-06-09 17:15:40] : [Running] Decryption process successful!
+[2022-06-09 17:15:40] : [Terminating] Exit program successful!
+[2022-06-09 17:16:17] : [Running] started cipher-helper program
+[2022-06-09 17:16:17] : [Running] Run TEST_MODE: view log about whole process
+[2022-06-09 17:16:17] : [Running] Encryption process successful!
+[2022-06-09 17:16:17] : [Running] Decryption process successful!
+[2022-06-09 17:16:17] : [Running] Decryption process successful!
+[2022-06-09 17:16:17] : [Terminating] Exit program successful!
+[2022-06-09 17:16:34] : [Running] started cipher-helper program
+[2022-06-09 17:16:34] : [Running] Run TEST_MODE: view log about whole process
+[2022-06-09 17:16:34] : [Running] Encryption process successful!
+[2022-06-09 17:16:34] : [Running] Decryption process successful!
+[2022-06-09 17:16:34] : [Running] Decryption process successful!
+[2022-06-09 17:16:34] : [Terminating] Exit program successful!
+[2022-06-09 23:28:05] : [Running] started cipher-helper program
+[2022-06-09 23:28:05] : [Running] RUN TEST_MODE(FILE): view log about whole process
+[2022-06-09 23:28:05] : [Running] ENCRYPTION(FILE) process successful!
+[2022-06-09 23:28:05] : [Terminating] DECRYPTION(FILE) -- file not found
+[2022-06-09 23:29:35] : [Running] started cipher-helper program
+[2022-06-09 23:29:35] : [Running] RUN TEST_MODE(FILE): view log about whole process
+[2022-06-09 23:29:35] : [Running] ENCRYPTION(FILE) process successful!
+[2022-06-09 23:29:35] : [Terminating] DECRYPTION(FILE) -- file not found
+[2022-06-09 23:30:07] : [Running] started cipher-helper program
+[2022-06-09 23:30:07] : [Running] RUN TEST_MODE(FILE): view log about whole process
+[2022-06-09 23:30:07] : [Running] ENCRYPTION(FILE) process successful!
+[2022-06-09 23:30:07] : [Running] DECRYPTION(FILE) process successful!
+[2022-06-09 23:30:07] : [Running] DECRYPTION(FILE) process successful!
+[2022-06-09 23:30:07] : [Terminating] Exit program successful!
+[2022-06-09 23:41:48] : [Running] started cipher-helper program
+[2022-06-09 23:41:48] : [Running] RUN TEST_MODE(FILE): view log about whole process
+[2022-06-09 23:41:48] : [Running] ENCRYPTION(FILE) process successful!
+[2022-06-09 23:41:48] : [Running] DECRYPTION(FILE) process successful!
+[2022-06-09 23:41:48] : [Terminating] Exit program successful!
+[2022-06-09 23:43:10] : [Running] started cipher-helper program
+[2022-06-09 23:43:10] : [Running] RUN WHOLE_MODE(FILE): user want to use encryption & decryption at the same time
+[2022-06-09 23:43:10] : [Running] ENCRYPTION(FILE) process successful!
+[2022-06-09 23:43:10] : [Running] DECRYPTION(FILE) process successful!
+[2022-06-09 23:43:10] : [Terminating] Exit program successful!
+[2022-06-09 23:44:03] : [Running] started cipher-helper program
+[2022-06-09 23:44:03] : [Running] ENCRYPTION(FILE) process successful!
+[2022-06-09 23:44:03] : [Terminating] Exit program successful!
+[2022-06-09 23:44:22] : [Running] started cipher-helper program
+[2022-06-09 23:44:22] : [Running] DECRYPTION(FILE) process successful!
+[2022-06-09 23:44:22] : [Terminating] Exit program successful!
+[2022-06-09 23:44:48] : [Running] started cipher-helper program
+[2022-06-09 23:44:48] : [Running] DECRYPTION(FILE) process successful!
+[2022-06-09 23:44:48] : [Terminating] Exit program successful!
+[2022-06-09 23:51:04] : [Running] started cipher-helper program
+[2022-06-09 23:51:04] : [Running] RUN TEST_MODE(DIR): view log about whole process
+[2022-06-09 23:51:04] : [Terminating] ENCRYPTION(DIR) -- file not found
+[2022-06-09 23:53:32] : [Running] started cipher-helper program
+[2022-06-09 23:53:32] : [Running] RUN TEST_MODE(DIR): view log about whole process
+[2022-06-09 23:53:32] : [Terminating] ENCRYPTION(DIR) -- file not found
+[2022-06-09 23:57:00] : [Running] started cipher-helper program
+[2022-06-09 23:57:00] : [Running] RUN TEST_MODE(DIR): view log about whole process
+[2022-06-09 23:57:00] : [Terminating] ENCRYPTION(DIR) -- file not found
+[2022-06-09 23:59:11] : [Running] started cipher-helper program
+[2022-06-09 23:59:11] : [Running] RUN TEST_MODE(DIR): view log about whole process
+[2022-06-09 23:59:11] : [Terminating] ENCRYPTION(DIR) -- file not found
+[2022-06-10 00:00:03] : [Running] started cipher-helper program
+[2022-06-10 00:00:03] : [Running] RUN TEST_MODE(DIR): view log about whole process
+[2022-06-10 00:01:07] : [Running] started cipher-helper program
+[2022-06-10 00:01:07] : [Running] RUN TEST_MODE(DIR): view log about whole process
+[2022-06-10 00:01:07] : [Terminating] ENCRYPTION(DIR) -- file not found
+[2022-06-10 00:06:09] : [Running] started cipher-helper program
+[2022-06-10 00:06:09] : [Running] RUN TEST_MODE(DIR): view log about whole process
+[2022-06-10 00:06:09] : [Running] ENCRYPTION(DIR) process successful!
+[2022-06-10 00:06:09] : [Running] DECRYPTION(DIR) process successful!
+[2022-06-10 00:06:09] : [Terminating] Exit program successful!
+[2022-06-10 00:09:24] : [Running] started cipher-helper program
+[2022-06-10 00:09:24] : [Running] RUN TEST_MODE(DIR): view log about whole process
+[2022-06-10 00:09:24] : [Running] ENCRYPTION(DIR) process successful!
+[2022-06-10 00:09:24] : [Running] DECRYPTION(DIR) process successful!
+[2022-06-10 00:09:24] : [Terminating] Exit program successful!
+[2022-06-10 00:10:28] : [Running] started cipher-helper program
+[2022-06-10 00:10:28] : [Running] ENCRYPTION(DIR) process successful!
+[2022-06-10 00:10:28] : [Terminating] Exit program successful!
+[2022-06-10 00:11:50] : [Running] started cipher-helper program
+[2022-06-10 00:11:50] : [Running] RUN WHOLE_MODE(DIR): user want to use encryption & decryption at the same time
+[2022-06-10 00:11:50] : [Running] ENCRYPTION(DIR) process successful!
+[2022-06-10 00:11:50] : [Running] DECRYPTION(DIR) process successful!
+[2022-06-10 00:11:50] : [Terminating] Exit program successful!
+[2022-06-10 00:12:40] : [Running] started cipher-helper program
+[2022-06-10 00:12:40] : [Running] ENCRYPTION(DIR) process successful!
+[2022-06-10 00:12:40] : [Terminating] Exit program successful!
+[2022-06-10 00:13:21] : [Running] started cipher-helper program
+[2022-06-10 00:13:21] : [Running] DECRYPTION(DIR) process successful!
+[2022-06-10 00:13:21] : [Terminating] Exit program successful!
+[2022-06-10 00:15:30] : [Running] started cipher-helper program
+[2022-06-10 00:15:30] : [Running] RUN WHOLE_MODE(DIR): user want to use encryption & decryption at the same time
+[2022-06-10 00:15:30] : [Running] ENCRYPTION(DIR) process successful!
+[2022-06-10 00:15:30] : [Running] DECRYPTION(DIR) process successful!
+[2022-06-10 00:15:30] : [Terminating] Exit program successful!

@@ -218,3 +218,104 @@
 [2022-06-10 00:15:30] : [Running] ENCRYPTION(DIR) process successful!
 [2022-06-10 00:15:30] : [Running] DECRYPTION(DIR) process successful!
 [2022-06-10 00:15:30] : [Terminating] Exit program successful!
+[2022-06-10 21:56:00] : [Running] started cipher-helper program
+[2022-06-10 21:56:00] : [Terminating] few arguments - filename
+[2022-06-10 22:12:55] : [Running] started cipher-helper program
+[2022-06-10 22:12:55] : [Terminating] few arguments - filename
+[2022-06-10 22:16:11] : [Running] started cipher-helper program
+[2022-06-10 22:16:11] : [Running] RUN TEST_MODE(FILE): view log about whole process
+[2022-06-10 22:16:11] : [Running] ENCRYPTION(FILE) process successful!
+[2022-06-10 22:16:11] : [Running] DECRYPTION(FILE) process successful!
+[2022-06-10 22:16:11] : [Terminating] Exit program successful!
+[2022-06-10 22:19:00] : [Running] started cipher-helper program
+[2022-06-10 22:19:00] : [Running] ENCRYPTION(FILE) process successful!
+[2022-06-10 22:19:00] : [Terminating] Exit program successful!
+[2022-06-10 22:19:34] : [Running] started cipher-helper program
+[2022-06-10 22:19:34] : [Running] DECRYPTION(FILE) process successful!
+[2022-06-10 22:19:34] : [Terminating] Exit program successful!
+[2022-06-10 22:20:42] : [Running] started cipher-helper program
+[2022-06-10 22:20:42] : [Running] DECRYPTION(DIR) process successful!
+[2022-06-10 22:20:42] : [Terminating] Exit program successful!
+[2022-06-10 22:36:24] : [Running] started cipher-helper program
+[2022-06-10 22:36:24] : [Terminating] few arguments - filename
+[2022-06-10 22:36:28] : [Running] started cipher-helper program
+[2022-06-10 22:36:28] : [Terminating] few arguments - filename
+[2022-06-10 22:45:35] : [Running] started cipher-helper program
+[2022-06-10 22:45:35] : [Terminating] few arguments - filename
+[2022-06-10 22:46:11] : [Running] started cipher-helper program
+[2022-06-10 22:46:11] : [Running] RUN TEST_MODE(FILE): view log about whole process
+[2022-06-10 22:46:11] : [Running] ENCRYPTION(FILE) process successful!
+[2022-06-10 22:46:11] : [Running] DECRYPTION(FILE) process successful!
+[2022-06-10 22:46:11] : [Terminating] Exit program successful!
+[2022-06-10 22:46:43] : [Running] started cipher-helper program
+[2022-06-10 22:46:43] : [Running] ENCRYPTION(FILE) process successful!
+[2022-06-10 22:46:43] : [Terminating] Exit program successful!
+[2022-06-10 22:47:03] : [Running] started cipher-helper program
+[2022-06-10 22:47:03] : [Running] DECRYPTION(FILE) process successful!
+[2022-06-10 22:47:03] : [Terminating] Exit program successful!
+[2022-06-10 22:49:41] : [Running] started cipher-helper program
+[2022-06-10 22:49:41] : [Terminating] few arguments - filename
+[2022-06-10 22:50:20] : [Running] started cipher-helper program
+[2022-06-10 22:50:20] : [Running] RUN TEST_MODE(FILE): view log about whole process
+[2022-06-10 22:50:20] : [Running] ENCRYPTION(FILE) process successful!
+[2022-06-10 22:50:20] : [Running] DECRYPTION(FILE) process successful!
+[2022-06-10 22:50:20] : [Terminating] Exit program successful!
+[2022-06-10 22:50:43] : [Running] started cipher-helper program
+[2022-06-10 22:50:43] : [Running] ENCRYPTION(FILE) process successful!
+[2022-06-10 22:50:43] : [Terminating] Exit program successful!
+[2022-06-10 22:51:04] : [Running] started cipher-helper program
+[2022-06-10 22:51:04] : [Running] DECRYPTION(FILE) process successful!
+[2022-06-10 22:51:04] : [Terminating] Exit program successful!
+[2022-06-10 22:52:02] : [Running] started cipher-helper program
+[2022-06-10 22:52:02] : [Running] DECRYPTION(DIR) process successful!
+[2022-06-10 22:52:02] : [Terminating] Exit program successful!
+[2022-06-10 22:58:05] : [Running] started cipher-helper program
+[2022-06-10 22:58:05] : [Terminating] few arguments - filename
+[2022-06-10 23:07:45] : [Running] started cipher-helper program
+[2022-06-10 23:07:45] : [Terminating] few arguments - filename
+[2022-06-10 23:08:26] : [Running] started cipher-helper program
+[2022-06-10 23:08:26] : [Running] RUN TEST_MODE(FILE): view log about whole process
+[2022-06-10 23:08:26] : [Running] ENCRYPTION(FILE) process successful!
+[2022-06-10 23:08:26] : [Running] DECRYPTION(FILE) process successful!
+[2022-06-10 23:08:26] : [Terminating] Exit program successful!
+[2022-06-10 23:08:54] : [Running] started cipher-helper program
+[2022-06-10 23:08:54] : [Running] ENCRYPTION(FILE) process successful!
+[2022-06-10 23:08:54] : [Terminating] Exit program successful!
+[2022-06-10 23:09:24] : [Running] started cipher-helper program
+[2022-06-10 23:09:24] : [Running] DECRYPTION(FILE) process successful!
+[2022-06-10 23:09:24] : [Terminating] Exit program successful!
+[2022-06-10 23:09:56] : [Running] started cipher-helper program
+[2022-06-10 23:09:56] : [Running] RUN WHOLE_MODE(FILE): user want to use encryption & decryption at the same time
+[2022-06-10 23:09:56] : [Running] ENCRYPTION(FILE) process successful!
+[2022-06-10 23:09:56] : [Running] DECRYPTION(FILE) process successful!
+[2022-06-10 23:09:56] : [Terminating] Exit program successful!
+[2022-06-10 23:10:30] : [Running] started cipher-helper program
+[2022-06-10 23:10:30] : [Running] DECRYPTION(DIR) process successful!
+[2022-06-10 23:10:30] : [Terminating] Exit program successful!
+[2022-06-10 23:43:14] : [Running] started cipher-helper program
+[2022-06-10 23:43:14] : [Terminating] few arguments - filename
+[2022-06-10 23:44:47] : [Running] started cipher-helper program
+[2022-06-10 23:44:47] : [Terminating] few arguments - filename
+[2022-06-10 23:46:05] : [Running] started cipher-helper program
+[2022-06-10 23:46:05] : [Terminating] few arguments - filename
+[2022-06-10 23:46:42] : [Running] started cipher-helper program
+[2022-06-10 23:46:42] : [Running] RUN TEST_MODE(FILE): view log about whole process
+[2022-06-10 23:46:42] : [Running] ENCRYPTION(FILE) process successful!
+[2022-06-10 23:46:42] : [Running] DECRYPTION(FILE) process successful!
+[2022-06-10 23:46:42] : [Terminating] Exit program successful!
+[2022-06-10 23:47:13] : [Running] started cipher-helper program
+[2022-06-10 23:47:13] : [Running] ENCRYPTION(FILE) process successful!
+[2022-06-10 23:47:13] : [Terminating] Exit program successful!
+[2022-06-10 23:47:26] : [Running] started cipher-helper program
+[2022-06-10 23:47:26] : [Running] DECRYPTION(FILE) process successful!
+[2022-06-10 23:47:26] : [Terminating] Exit program successful!
+[2022-06-10 23:47:53] : [Running] started cipher-helper program
+[2022-06-10 23:47:53] : [Terminating] few arguments - filename
+[2022-06-10 23:47:58] : [Running] started cipher-helper program
+[2022-06-10 23:47:58] : [Running] RUN WHOLE_MODE(FILE): user want to use encryption & decryption at the same time
+[2022-06-10 23:47:58] : [Running] ENCRYPTION(FILE) process successful!
+[2022-06-10 23:47:58] : [Running] DECRYPTION(FILE) process successful!
+[2022-06-10 23:47:58] : [Terminating] Exit program successful!
+[2022-06-10 23:48:25] : [Running] started cipher-helper program
+[2022-06-10 23:48:26] : [Running] DECRYPTION(DIR) process successful!
+[2022-06-10 23:48:26] : [Terminating] Exit program successful!

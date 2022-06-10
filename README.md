@@ -8,6 +8,8 @@ User can encrypt the private file, and also decrypt it based on user password.
 * support the single file path, also directory path is available 
 * for the first-time user, this program provide TEST_MODE 
 
+https://user-images.githubusercontent.com/52683010/173108459-d2d092ef-a863-4d02-923d-947057c756e0.png
+
 ## How to get started?
 0. Clone this repository on your local 
 
